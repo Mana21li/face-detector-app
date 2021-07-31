@@ -1,0 +1,25 @@
+.form{
+    background: rgba(20, 20, 46,0.6);
+    width:90vmin;
+}
+
+.btn {
+    background: rgb(20,20,46);
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 4vmin;
+    padding: 4px;
+    width:50vmin;
+}
+.btn:hover{
+    background: rgb(69, 69, 95);
+    color: rgb(20,20,46);
+}
+.input{
+  font-size: 4vmin;
+  box-sizing: border-box;
+  width:60vmin;
+}
+.para{
+  font-size:3vh;
+  margin:45px 5px 10px 5px;
+}
